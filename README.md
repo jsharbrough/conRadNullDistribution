@@ -1,0 +1,2 @@
+# conRadNullDistribution
+Tool that is capable of comparing two groups within a species by constructing a null distribution given the groups sizes. Tool is capable of distinguishing between different types of amino acid changing mutations using 8 distinct methods for classifying nonsynonymous changes. Tool can be used to directly compute population genetic statistics of two groups, if the sampling procedure is toggled off. This function is not recommended for users who are not fluent in Python.
